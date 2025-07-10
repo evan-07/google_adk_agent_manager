@@ -1,0 +1,17 @@
+[project]
+name = "adk-short-bot"
+version = "0.1.0"
+description = "A bot that shortens your messages"
+authors = [
+    {name = "Erivan Buenaventura", email = "e.d.buenaventura@accenture.com"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+license = "Apache-2.0"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["adk_short_bot"]
