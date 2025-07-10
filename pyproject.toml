@@ -3,7 +3,7 @@ name = "adk-short-bot"
 version = "0.1.0"
 description = "A bot that shortens your messages"
 authors = [
-    {name = "Erivan Buenaventura", email = "e.d.buenaventura@accenture.com"}
+    {name = "Erivan Buenaventura", email = "erivanbuenaventura@sampleemail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.9"
